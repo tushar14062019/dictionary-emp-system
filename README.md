@@ -11,7 +11,6 @@ Develop a Python-based Employee Management System that stores and manipulates em
 The system should support the following functionalities:
 
 1. **Add a new employee**
-   - Validate that Employee ID is unique.
    - Ensure proper data format for name, age, and department.
 2. **Remove an employee**
    - Allow removal only if the Employee ID exists.
