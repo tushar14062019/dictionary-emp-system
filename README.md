@@ -48,7 +48,8 @@ employees = {
 
 #### **a. Add an Employee**
 
-- Prompt for Employee ID, Name, Age, and Department.
+- Generate unique Employee IDs
+- Prompt for Name, Age, and Department.
 - Ensure Employee ID is unique.
 - Validate that Name contains only alphabets.
 - Ensure Age is a positive integer.
