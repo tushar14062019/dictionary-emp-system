@@ -36,7 +36,10 @@ A Python dictionary will store employee details where:
 Example structure:
 
 ```python
-employees = { "E101": {"name": "Alice Johnson", "age": 30, "department": "HR"}, "E102": {"name": "Bob Smith", "age": 25, "department": "IT"} }
+employees = {
+   "E101": {"name": "Alice Johnson", "age": 30, "department": "HR"},
+   "E102": {"name": "Bob Smith", "age": 25, "department": "IT"}
+}
 ```
 
 ---
